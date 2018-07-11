@@ -1,0 +1,7 @@
+[package]
+name = "fft_compute"
+version = "0.0.1"
+authors = ["cowgillbones"]
+
+[dependencies]
+hound = "3.4.0"
